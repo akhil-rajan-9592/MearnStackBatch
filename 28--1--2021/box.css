@@ -1,0 +1,16 @@
+#top{
+   background-color: aqua;
+   border-style:solid; 
+   border-color: blue;
+   border-width: 1px;
+   width: 40%;
+   margin-left: 5%;
+}
+#bottom{
+   background-color: aqua;
+   border-style:solid; 
+   border-color: blue;
+   border-width: 1px;
+   width: 40%;
+   margin-left: 5%;
+}

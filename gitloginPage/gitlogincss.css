@@ -1,0 +1,92 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+h2{
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    width: 250px;
+    padding-left: 15px;
+}
+label{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+    color: #24292e;
+}
+a{
+    text-decoration: none;
+}
+input{
+    border-radius: 5px;
+    width: 256px;
+    margin-top: 5px;
+    height: 27px;
+    border: 1px solid #cdcdcd;
+}
+button{
+    border: 1px solid #3f465a33;
+    width: 261px;
+    border-radius: 5px;
+    height: 33px;
+    margin-top: 20px;
+    background-color: #2ea44f;
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: 'Ubuntu', sans-serif;
+}
+.mainbox{
+    margin-left: 35%;
+    margin-top: 10%;
+}
+.fieldbox{
+    margin-top: 20px
+}
+.fieldbox a{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 11px;
+    color: #0366d6;
+    text-align: right;
+    padding-left: 108px;
+    font-weight: bold;
+}
+.formbox{
+    width: 280px;
+    height: 222px;
+    background-color:#f6f8fa;
+    border: 1px solid#cdcdcd4d;
+    border-radius: 5px;
+    padding-left: 20px;
+}
+.acntbox{
+    font-family: 'Ubuntu', sans-serif;
+    width: 302px;
+    background-color: white;
+    border: 1px solid #8882823d;
+    margin-top: 15px;
+    height: 32px;
+    border-radius: 5px;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 14px;
+}
+.acntbox a{
+    color: #0366d6;
+}
+.linkbox{
+    margin-top: 71px;
+    text-align: center;
+    width: 302px;
+    padding-left: 10px;
+}
+.linkbox a{
+    font-family: 'Ubuntu', sans-serif;
+    color: #0366d6;
+    font-size: 12px;
+    float: left;
+    margin-left: 15px;
+}
+#cont{
+    color: #586069;
+}
